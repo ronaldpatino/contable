@@ -1,0 +1,76 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="883" measuredH="302" mockupW="843" mockupH="267">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="40" y="161" w="843" h="85" measuredW="527" measuredH="81" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ruc%20/%20C.I.%2C%20Nombre%2C%20Telefono%2C%20Cuentas%20por%20Pagar%2C%20Cuentas%20en%20Mora%0A0102880291001%2C%20RONALD%20PATI%D1O%2C%204097545%2C%202%2C%201%0A0102880291001%2C%20JUAN%20PEREZ%2C%204097545%2C%200%2C%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="176" y="119" w="702" h="27" measuredW="698" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%2CB%2CC%2CD%2CE%2CF%2CG%2CH%2CI%2CJ%2CP%2CQ%2CR%2CS%2CT%2CU%2CV%2CW%2CX%2CY%2CZ</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="40" y="119" w="-1" h="-1" measuredW="58" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Todos</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="113" y="119" w="-1" h="-1" measuredW="44" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>123</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="624" y="77" w="171" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="810" y="77" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="40" y="77" w="-1" h="-1" measuredW="102" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Crear%20Cliente</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="40" y="35" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Clientes</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::ComboBox" x="121" y="278" w="-1" h="-1" measuredW="36" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="69" y="280" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>P%E1gina</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="161" y="280" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>de%20100</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::HRule" x="40" y="262" w="843" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HRule" x="40" y="62" w="843" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="650" y="280" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mostrando</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="775" y="280" w="-1" h="-1" measuredW="100" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>items%20por%20p%E1gina</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::ComboBox" x="723" y="278" w="-1" h="-1" measuredW="46" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>25</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
